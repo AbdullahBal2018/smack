@@ -7,3 +7,5 @@
 //
 
 import UIKit
+
+var a: String?
