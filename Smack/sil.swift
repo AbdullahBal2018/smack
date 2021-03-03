@@ -8,4 +8,4 @@
 
 import UIKit
 
-var a: String?
+var a: Int?
